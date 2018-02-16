@@ -1,5 +1,7 @@
 Debug/
 Release/
+debug/
+release/
 *.VC.db
 *.VC.opendb
 *.suo
